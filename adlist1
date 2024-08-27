@@ -1,2 +1,10 @@
-nypost.com
-www.nypost.com
+# A non serious list to prank my family members
+# ----
+# title:          AM adlist1
+# last updated:   2024-08-27 09:37:55 EST
+# entries:        2
+# format:         hosts (hosts -- in hosts file format)
+# homepage:       https://github.com/AndrewMas99/adlist
+
+127.0.0.1 nypost.com
+127.0.0.1 www.nypost.com
