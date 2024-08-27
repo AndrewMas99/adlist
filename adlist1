@@ -6,5 +6,5 @@
 # format:         hosts (hosts -- in hosts file format)
 # homepage:       https://github.com/AndrewMas99/adlist
 
-0.0.0.0 nypost.com
-0.0.0.0 www.nypost.com
+nypost.com
+www.nypost.com
